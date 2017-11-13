@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "no description",
   "main": "index.js",
-  "engines": {
-        "node": "6.2.0"
-  },
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "team-cancer",
   "license": "ISC",
@@ -19,5 +16,6 @@
     "@types/express": "^4.0.39",
     "@types/ws": "^3.2.0",
     "typescript": "^2.6.1"
-  },
+  }
+  
 }
